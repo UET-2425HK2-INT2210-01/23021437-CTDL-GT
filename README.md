@@ -1,5 +1,4 @@
 # 23021437-CTDL-GT
-# 23021437-CTDL-GT
 - 👋 Hi, I’m Kim Ngọc Sơn
 - MSV:23021437
 - 🌱 I’m currently learning CTDL&GT-INT 2210 1
